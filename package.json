@@ -8,7 +8,7 @@
     "heroku-postbuild": "cd client && npm install && npm run build",
     "startwman": "nodemon start.js",
     "dev": "concurrently \"npm run startwman\" \"cd client && npm start\"",
-    "test": "echo \"Error: no test specified\"",
+    "test": "echo \"Error: no test specified\""
   },
   "author": "azizstark",
   "license": "ISC",

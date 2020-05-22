@@ -8,7 +8,7 @@
       "methods": ["GET"]
     },
     {
-      "src": "/",
+      "src": "/client/src/",
       "dest": "/index.js",
       "methods": ["POST"]
     }

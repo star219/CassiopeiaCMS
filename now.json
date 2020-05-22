@@ -3,7 +3,7 @@
   "builds": [{ "src": "index.js", "use": "@now/node-server" }],
   "routes": [
     {
-      "src": "/api",
+      "src": "/",
       "dest": "/index.js",
       "methods": ["GET"]
     }

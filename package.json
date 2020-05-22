@@ -4,10 +4,11 @@
   "description": "",
   "main": "start.js",
   "scripts": {
-    "start": "cd client && npm install --only=dev && npm install && npm run build && node start.js",
+    "start": "node start.js",
+    "heroku-postbuild": "cd client && npm install && npm run build",
     "startwman": "nodemon start.js",
     "dev": "concurrently \"npm run startwman\" \"cd client && npm start\"",
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
   },
   "author": "azizstark",
   "license": "ISC",

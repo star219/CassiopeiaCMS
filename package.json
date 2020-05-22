@@ -19,6 +19,8 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "@babel/register": "^7.8.3",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
     "cloudinary": "^1.19.0",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
@@ -42,8 +44,6 @@
     "react-render-html": "^0.6.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/preset-env": "^7.8.4",
     "concurrently": "^5.1.0"
   }
 }

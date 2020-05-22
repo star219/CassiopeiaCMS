@@ -11,7 +11,7 @@ import Dashboard from './views/admin/dashboard';
 import * as serviceWorker from './serviceWorker';
 
 const routing = (
-    <Router basename="/react">
+    <Router>
       <div>
         <Route exact path="/" component={Blog} />
         <Route exact path="/blog" component={Blog} />

@@ -4,7 +4,7 @@
   "description": "",
   "main": "start.js",
   "scripts": {
-    "start": "node start.js",
+    "postinstall": "node start.js",
     "heroku-postbuild": "cd client && npm install && npm run build && cd ../",
     "startwman": "nodemon start.js",
     "dev": "concurrently \"npm run startwman\" \"cd client && npm start\"",

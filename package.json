@@ -4,7 +4,7 @@
   "description": "",
   "main": "start.js",
   "scripts": {
-    "start": "cd client && npm run build && node start.js",
+    "start": "cd client && npm install --only=dev && npm install && npm run build && node start.js",
     "startwman": "nodemon start.js",
     "dev": "concurrently \"npm run startwman\" \"cd client && npm start\"",
     "test": "echo \"Error: no test specified\""

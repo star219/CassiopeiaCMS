@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cassiopeia-cms.now.sh"
+  "homepage": ".",
   "proxy": "https://cassiopeia-cms.now.sh:5000",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",

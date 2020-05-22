@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d64d46dd.chunk.css",
+    "main.js": "/static/js/main.17fb9c65.chunk.js",
+    "main.js.map": "/static/js/main.17fb9c65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.844668cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.844668cf.js.map",
+    "static/css/2.e61fc129.chunk.css": "/static/css/2.e61fc129.chunk.css",
+    "static/js/2.54e16173.chunk.js": "/static/js/2.54e16173.chunk.js",
+    "static/js/2.54e16173.chunk.js.map": "/static/js/2.54e16173.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.291ed7eb657bb616da2c5d15732c5a2c.js": "/precache-manifest.291ed7eb657bb616da2c5d15732c5a2c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e61fc129.chunk.css.map": "/static/css/2.e61fc129.chunk.css.map",
+    "static/css/main.d64d46dd.chunk.css.map": "/static/css/main.d64d46dd.chunk.css.map",
+    "static/js/2.54e16173.chunk.js.LICENSE.txt": "/static/js/2.54e16173.chunk.js.LICENSE.txt",
+    "static/media/Polygon.svg": "/static/media/Polygon.de6485bc.svg",
+    "static/media/UploadIcon.svg": "/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/field.jpg": "/static/media/field.9165801c.jpg",
+    "static/media/forest.jpg": "/static/media/forest.b27b7f1b.jpg",
+    "static/media/loading.gif": "/static/media/loading.018d2ac3.gif",
+    "static/media/mount.jpg": "/static/media/mount.a5e18f2a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.844668cf.js",
+    "static/css/2.e61fc129.chunk.css",
+    "static/js/2.54e16173.chunk.js",
+    "static/css/main.d64d46dd.chunk.css",
+    "static/js/main.17fb9c65.chunk.js"
+  ]
+}

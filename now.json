@@ -6,6 +6,11 @@
       "src": "/",
       "dest": "/index.js",
       "methods": ["GET"]
+    },
+    {
+      "src": "/",
+      "dest": "/index.js",
+      "methods": ["POST"]
     }
   ]                       
 } 

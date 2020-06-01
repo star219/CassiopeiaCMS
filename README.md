@@ -35,4 +35,4 @@
     
  <h2> Sample blog </h2>
  
-   [Stargazer](https://azizstark.unubo.app/blog "AzizStark's Blog")
+   [Stargazer](https://azizstarkblog.herokuapp.com "AzizStark's Blog")

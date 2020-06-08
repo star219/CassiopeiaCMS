@@ -6,7 +6,11 @@
 
 <h4>Built on top of NodeJS with interface built with ReactJS.</h4>
 
+<h2> Preview </h2>
 
+<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617177/s2yuzojzkrriblergq7i.png" />
+<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617178/myxtqtusnoxfuew7gn7g.png" />
+<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617186/lutefcpbmm1ctzlxn7ds.png" />
 
 <h2> Requirements </h2>
 <p>

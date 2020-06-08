@@ -6,12 +6,6 @@
 
 <h4>Built on top of NodeJS with interface built with ReactJS.</h4>
 
-<h2> Preview </h2>
-
-<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617177/s2yuzojzkrriblergq7i.png" />
-<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617178/myxtqtusnoxfuew7gn7g.png" />
-<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617186/lutefcpbmm1ctzlxn7ds.png" />
-
 <h2> Requirements </h2>
 <p>
     1. MongoDB (Atlas) <br/>
@@ -20,7 +14,6 @@
     4. MailGun (E-mail Service) <br/>
     5. Disqus (Comments) 
 </p>
-
 
 <h2> Installation </h2>
 <p>
@@ -36,7 +29,14 @@
      4. For faster image loading create image transformations in cloudinary and set transformation names.
     <br/><br/>
      5. That's all, start creating content! </p>
-    
+ 
  <h2> Sample blog </h2>
  
    [Stargazer](https://azizstarkblog.herokuapp.com "AzizStark's Blog")
+   
+ <h2> Preview </h2>
+
+<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617177/s2yuzojzkrriblergq7i.png" />
+<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617178/myxtqtusnoxfuew7gn7g.png" />
+<img src="https://res.cloudinary.com/azizcloud/image/upload/v1591617186/lutefcpbmm1ctzlxn7ds.png" />
+
